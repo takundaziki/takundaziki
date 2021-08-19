@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @takundaziki
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C# inXamarin Forms, HTML, CSS and Javascript
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
